@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/plugin3.0_ios/!svn/ver/1399/trunk/code/public/EUExBaiduMap2.0/EUExBaiduMap/sourceCode/BaiduSdk/inc
+END
+BMKShape.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/plugin3.0_ios/!svn/ver/1399/trunk/code/public/EUExBaiduMap2.0/EUExBaiduMap/sourceCode/BaiduSdk/inc/BMKShape.h
+END
+BMKCircle.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/plugin3.0_ios/!svn/ver/1399/trunk/code/public/EUExBaiduMap2.0/EUExBaiduMap/sourceCode/BaiduSdk/inc/BMKCircle.h
+END
+BMKMultiPoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/plugin3.0_ios/!svn/ver/1399/trunk/code/public/EUExBaiduMap2.0/EUExBaiduMap/sourceCode/BaiduSdk/inc/BMKMultiPoint.h
+END
+BMKTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/plugin3.0_ios/!svn/ver/1399/trunk/code/public/EUExBaiduMap2.0/EUExBaiduMap/sourceCode/BaiduSdk/inc/BMKTypes.h
+END
+BMKAnnotationView.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/plugin3.0_ios/!svn/ver/1399/trunk/code/public/EUExBaiduMap2.0/EUExBaiduMap/sourceCode/BaiduSdk/inc/BMKAnnotationView.h
+END
+BMKSearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/plugin3.0_ios/!svn/ver/1399/trunk/code/public/EUExBaiduMap2.0/EUExBaiduMap/sourceCode/BaiduSdk/inc/BMKSearch.h
+END
+BMKGeocodeType.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/plugin3.0_ios/!svn/ver/1399/trunk/code/public/EUExBaiduMap2.0/EUExBaiduMap/sourceCode/BaiduSdk/inc/BMKGeocodeType.h
+END
+BMKUserLocation.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/plugin3.0_ios/!svn/ver/1399/trunk/code/public/EUExBaiduMap2.0/EUExBaiduMap/sourceCode/BaiduSdk/inc/BMKUserLocation.h
+END
+BMKMapView.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/plugin3.0_ios/!svn/ver/1399/trunk/code/public/EUExBaiduMap2.0/EUExBaiduMap/sourceCode/BaiduSdk/inc/BMKMapView.h
+END
+BMKMapManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/plugin3.0_ios/!svn/ver/1399/trunk/code/public/EUExBaiduMap2.0/EUExBaiduMap/sourceCode/BaiduSdk/inc/BMKMapManager.h
+END
+BMKGeneralDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/plugin3.0_ios/!svn/ver/1399/trunk/code/public/EUExBaiduMap2.0/EUExBaiduMap/sourceCode/BaiduSdk/inc/BMKGeneralDelegate.h
+END
+BMKAnnotation.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/plugin3.0_ios/!svn/ver/1399/trunk/code/public/EUExBaiduMap2.0/EUExBaiduMap/sourceCode/BaiduSdk/inc/BMKAnnotation.h
+END
+BMKPinAnnotationView.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/plugin3.0_ios/!svn/ver/1399/trunk/code/public/EUExBaiduMap2.0/EUExBaiduMap/sourceCode/BaiduSdk/inc/BMKPinAnnotationView.h
+END
+BMKOverlayView.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/plugin3.0_ios/!svn/ver/1399/trunk/code/public/EUExBaiduMap2.0/EUExBaiduMap/sourceCode/BaiduSdk/inc/BMKOverlayView.h
+END
+BMKPoiSearchType.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/plugin3.0_ios/!svn/ver/1399/trunk/code/public/EUExBaiduMap2.0/EUExBaiduMap/sourceCode/BaiduSdk/inc/BMKPoiSearchType.h
+END
+BMKOfflineMap.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/plugin3.0_ios/!svn/ver/1399/trunk/code/public/EUExBaiduMap2.0/EUExBaiduMap/sourceCode/BaiduSdk/inc/BMKOfflineMap.h
+END
+BMKOverlay.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/plugin3.0_ios/!svn/ver/1399/trunk/code/public/EUExBaiduMap2.0/EUExBaiduMap/sourceCode/BaiduSdk/inc/BMKOverlay.h
+END
+BMKOfflineMapType.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/plugin3.0_ios/!svn/ver/1399/trunk/code/public/EUExBaiduMap2.0/EUExBaiduMap/sourceCode/BaiduSdk/inc/BMKOfflineMapType.h
+END
+BMKPolygonView.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/plugin3.0_ios/!svn/ver/1399/trunk/code/public/EUExBaiduMap2.0/EUExBaiduMap/sourceCode/BaiduSdk/inc/BMKPolygonView.h
+END
+BMKPointAnnotation.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/plugin3.0_ios/!svn/ver/1399/trunk/code/public/EUExBaiduMap2.0/EUExBaiduMap/sourceCode/BaiduSdk/inc/BMKPointAnnotation.h
+END
+BMKVersion.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/plugin3.0_ios/!svn/ver/1399/trunk/code/public/EUExBaiduMap2.0/EUExBaiduMap/sourceCode/BaiduSdk/inc/BMKVersion.h
+END
+BMKPolylineView.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/plugin3.0_ios/!svn/ver/1399/trunk/code/public/EUExBaiduMap2.0/EUExBaiduMap/sourceCode/BaiduSdk/inc/BMKPolylineView.h
+END
+BMKRouteSearchType.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/plugin3.0_ios/!svn/ver/1399/trunk/code/public/EUExBaiduMap2.0/EUExBaiduMap/sourceCode/BaiduSdk/inc/BMKRouteSearchType.h
+END
+BMKPolygon.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/plugin3.0_ios/!svn/ver/1399/trunk/code/public/EUExBaiduMap2.0/EUExBaiduMap/sourceCode/BaiduSdk/inc/BMKPolygon.h
+END
+BMKOverlayPathView.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/plugin3.0_ios/!svn/ver/1399/trunk/code/public/EUExBaiduMap2.0/EUExBaiduMap/sourceCode/BaiduSdk/inc/BMKOverlayPathView.h
+END
+BMKGeometry.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/plugin3.0_ios/!svn/ver/1399/trunk/code/public/EUExBaiduMap2.0/EUExBaiduMap/sourceCode/BaiduSdk/inc/BMKGeometry.h
+END
+BMKPolyline.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/plugin3.0_ios/!svn/ver/1399/trunk/code/public/EUExBaiduMap2.0/EUExBaiduMap/sourceCode/BaiduSdk/inc/BMKPolyline.h
+END
+BMKCircleView.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/plugin3.0_ios/!svn/ver/1399/trunk/code/public/EUExBaiduMap2.0/EUExBaiduMap/sourceCode/BaiduSdk/inc/BMKCircleView.h
+END
+BMapKit.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/plugin3.0_ios/!svn/ver/1399/trunk/code/public/EUExBaiduMap2.0/EUExBaiduMap/sourceCode/BaiduSdk/inc/BMapKit.h
+END
